@@ -1,10 +1,10 @@
 {
   "name": "tiktok-by-1social",
   "displayName": "TikTok by 1Social",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Publish and schedule TikTok videos and photo posts from Claude — preview against TikTok's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "author": {
-    "name": "1Social",
+    "name": "Sultan Kadyrkesh",
     "email": "support@1social.dev",
     "url": "https://1social.dev"
   },

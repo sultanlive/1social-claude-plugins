@@ -1,10 +1,10 @@
 {
   "name": "youtube-shorts-by-1social",
   "displayName": "YouTube Shorts by 1Social",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Upload and schedule YouTube Shorts from Claude — preview against YouTube Shorts's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "author": {
-    "name": "1Social",
+    "name": "Sultan Kadyrkesh",
     "email": "support@1social.dev",
     "url": "https://1social.dev"
   },

@@ -1,10 +1,10 @@
 {
   "name": "post-scheduler-by-1social",
   "displayName": "Post Scheduler by 1Social",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Publish and schedule one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook, YouTube Shorts and Bluesky from Claude — preview against each network's limits, publish now or schedule, and see what actually reached each network. Powered by 1Social.",
   "author": {
-    "name": "1Social",
+    "name": "Sultan Kadyrkesh",
     "email": "support@1social.dev",
     "url": "https://1social.dev"
   },
