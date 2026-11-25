@@ -12,6 +12,9 @@ Publish and schedule social media posts from Claude through [1Social](https://1s
 | Facebook by 1Social | [`facebook-by-1social`](facebook-by-1social) |
 | YouTube Shorts by 1Social | [`youtube-shorts-by-1social`](youtube-shorts-by-1social) |
 | Bluesky by 1Social | [`bluesky-by-1social`](bluesky-by-1social) |
+| Pinterest by 1Social | [`pinterest-by-1social`](pinterest-by-1social) |
+| Telegram by 1Social | [`telegram-by-1social`](telegram-by-1social) |
+| Tumblr by 1Social | [`tumblr-by-1social`](tumblr-by-1social) |
 | Post Scheduler by 1Social | [`post-scheduler-by-1social`](post-scheduler-by-1social) |
 
 Each plugin runs no local code: it is a `.mcp.json` pointing at the 1Social MCP server, a skill, a README and a license. See each folder's README for what data the plugin sends and where.
