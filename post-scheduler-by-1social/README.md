@@ -1,6 +1,6 @@
 # Post Scheduler by 1Social
 
-Publish and schedule one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook, YouTube Shorts, Bluesky, Pinterest, Telegram and Tumblr from Claude. With this plugin Claude can write one post, adapt it to each network's limits, and publish it now or schedule it to Instagram, TikTok, LinkedIn, X (Twitter), Threads, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram and Tumblr at once. Plan a content calendar in chat and schedule every post in it.
+Publish and schedule one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook, YouTube Shorts, Bluesky, Pinterest, Telegram, Tumblr and Discord from Claude. With this plugin Claude can write one post, adapt it to each network's limits, and publish it now or schedule it to Instagram, TikTok, LinkedIn, X (Twitter), Threads, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram, Tumblr and Discord at once. Plan a content calendar in chat and schedule every post in it.
 
 It connects Claude to [1Social](https://1social.dev), a publishing service for social media accounts you own.
 

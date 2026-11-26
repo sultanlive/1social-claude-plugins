@@ -1,6 +1,6 @@
 ---
 name: social-post-scheduler
-description: "Plan, write, publish and schedule one post across several social networks (Instagram, TikTok, LinkedIn, X/Twitter, Threads, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram channels, Tumblr) through the user's 1Social account, adapting the text to each network's limits. Use when the user wants to cross-post, schedule a social media post or content calendar, or check what was published."
+description: "Plan, write, publish and schedule one post across several social networks (Instagram, TikTok, LinkedIn, X/Twitter, Threads, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram channels, Tumblr, Discord) through the user's 1Social account, adapting the text to each network's limits. Use when the user wants to cross-post, schedule a social media post or content calendar, or check what was published."
 ---
 
 # Cross-posting with 1Social
@@ -35,6 +35,7 @@ description: "Plan, write, publish and schedule one post across several social n
 | Pinterest | description 800, title 100 | **1–5 images** (JPEG/PNG/WEBP), needs a board | — | yes |
 | Telegram (channels) | 4,096 (caption 1,024, longer text follows the media) | optional, album ≤ 10, ≤ 50 MB | joined into one post | within 48 h |
 | Tumblr (per blog) | long-form; title, link, source, tags | optional, ≤ 30 images **or** 1 video | joined into one post | yes |
+| Discord (server channels) | 2,000 per message | optional, ≤ 10 files, ≤ 20 MB each | thread under the first message | yes |
 
 - Pick the channels with the user, then check the strictest limit among them. A 280-character X post and a 3,000-character LinkedIn post are different posts — if the networks differ a lot, offer to publish separate versions as separate posts rather than cutting everything to the shortest limit.
 - If any selected network requires media (Instagram, TikTok, YouTube Shorts, Pinterest), ask for it before drafting. YouTube Shorts takes only one vertical video of up to 3 minutes; Pinterest takes images only and needs a board (the channel's default, or `pinterest.boardId`).

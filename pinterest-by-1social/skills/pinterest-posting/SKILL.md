@@ -38,7 +38,7 @@ description: "Write, publish and schedule Pinterest posts through the user's 1So
 
 ## Posting to other networks too
 
-The same 1Social account can publish one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram and Tumblr at once: list several channel ids from `list_accounts`. preview_post checks the draft against every selected network.
+The same 1Social account can publish one post to Instagram, TikTok, LinkedIn, X, Threads, Facebook Pages, YouTube Shorts, Bluesky, Pinterest, Telegram, Tumblr and Discord at once: list several channel ids from `list_accounts`. preview_post checks the draft against every selected network.
 
 ## After publishing
 
