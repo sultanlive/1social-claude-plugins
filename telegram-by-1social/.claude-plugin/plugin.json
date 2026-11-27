@@ -1,7 +1,7 @@
 {
   "name": "telegram-by-1social",
   "displayName": "Telegram by 1Social",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Publish and schedule Telegram channel posts from Claude — preview against Telegram's limits, publish now or schedule, and see what actually reached your account. Powered by 1Social.",
   "author": {
     "name": "Sultan Kadyrkesh",
